@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxaG9vbjF3MXBjdHRqZmx5a2F1MHVsajh6c3c5b2E2Ymxid2xkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CASzjS3YLOgkTu/giphy.gif" width="700" height="350" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYxaG9vbjF3MXBjdHRqZmx5a2F1MHVsajh6c3c5b2E2Ymxid2xkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CASzjS3YLOgkTu/giphy.gif" width="800" height="400" />
 </div>
 
 # **Whoamai** 🔍
