@@ -1,3 +1,5 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhhenk5c2h5aXMzaWh3NWliejdvb203bGt3ZDVsc3lydWVqc2dsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46C4pYX4WrL83AOc/giphy.gif" width="800" height="400" />
-</div>
+/// A passionate developer specializing in systems programming and open-source contributions. 
+/// With a strong focus on **Rust**, I thrive in building efficient, safe, and concurrent applications. 
+/// Always exploring new tools and methodologies to streamline workflows and solve real-world problems. 
+/// Let's connect and build something remarkable together! 🦀
+struct Profile;
