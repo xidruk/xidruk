@@ -1,4 +1,4 @@
-# xidruk's digital labyrinth
-C/C++/Python sorcerer who bends bits and breaks ciphers.
-Currently summoning Rust demons and whispering to silicon through Assembly.
-(╯°□°)╯︵ ┻━┻ < your code after I optimize it
+# 𝔛𝔦𝔡𝔯𝔲𝔨 🕸
+Memory sculptor in C, C++, Python, Django, and shell.
+Cryptography maestro decoding reality through algorithms.
+Now hunting rust anomalies and speaking assembly whispers.
